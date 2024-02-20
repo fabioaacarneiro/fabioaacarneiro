@@ -4,3 +4,11 @@
 - 🌱 Estudando Desenvolvimento Fullstack com PHP, Laravel, Vue, PostgresSQL, HTMX, Bootstrap, CSS e Javascript.
 
 [![GitHub stats de Fabio Carneiro](https://github-readme-stats.vercel.app/api?username=fabioaacarneiro)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioaacarneiro)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fabioaacarneiro" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fabioaacarneiro&layout=compact&langs_count=8&card_width=320" />
+</a>
