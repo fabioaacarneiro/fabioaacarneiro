@@ -1,6 +1,6 @@
 ### Olá, Bem-vindo ao meu perfil 👋
 
-- 🔭 Hoje trabalho com automações, webcrawlers, manutenção e desenvolvimento de softwares desktop.
+- 🔭 Hoje trabalho com automações, webcrawlers, manutenção e desenvolvimento de softwares desktop, em minha jornada diária de trabalho uso Java, Python, PHP e mais.
 - 🌱 Estudando Desenvolvimento Fullstack com PHP, Laravel, Vue, PostgresSQL, HTMX, Bootstrap, CSS e Javascript.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
