@@ -7,4 +7,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabioaacarneiro)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fabioaacarneiro)](https://github.com/anuraghazra/github-readme-stats)
