@@ -1,5 +1,5 @@
 ### Olá, Bem-vindo ao meu perfil 👋
-#### Meu nome é Fabio Carneiro, sou apaixonado por desenvolvimento de softwares, fã de linux, Java, PHP e Python de carterinha! Estudo e trabalho com ambos a bastante tempo e ainda estou estudando e desenvolvendo minhas habilidades sempre que possível!
+#### Meu nome é Fabio Carneiro, sou apaixonado por desenvolvimento de softwares e fã de linux, Java, PHP e Python de carterinha! Estudo e trabalho com ambos a bastante tempo e ainda estou estudando e desenvolvendo minhas habilidades sempre que possível!
 
 - 🎓 Atualmente acadêmico do curso superior Barachelado em Engenharia de Software pela Universidade Anhanguera de Campinas, em breve Engenherio de Software por formação.
   
