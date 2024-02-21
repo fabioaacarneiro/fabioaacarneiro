@@ -6,7 +6,7 @@
 - 🔭 Hoje trabalho com automações, webcrawlers, manutenção e desenvolvimento de softwares desktop, em minha jornada diária de trabalho uso Java, Python, PHP e mais.
   
 - 🌱 Estudando Desenvolvimento Fullstack com PHP, Laravel, PostgresSQL, Bootstrap, CSS e Javascript.
-- 🌟 Mas sempre estou usando Java principalmente com o framework Springboot, atualmente estou fazendo um Bootcamp da DIO para aumentar meu conhecimento como desenvolvedor fullstack e backend com Java e auxiliar meus estudos de Java com os materiais da faculdade de Engenharia.
+- 🌟 Mas sempre estou usando e me aprimorando em Java, principalmente com o framework Springboot, atualmente estou fazendo um Bootcamp da DIO para aumentar meu conhecimento como desenvolvedor fullstack e backend com Java que também auxilia e agrega conteúdo aos meus estudos de Java com as matérias da faculdade de Engenharia de Software que se baseiam nesta linguam incrível.
 
 
 
