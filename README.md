@@ -1,6 +1,8 @@
 ### Olá, Bem-vindo ao meu perfil 👋
 #### Meu nome é Fabio Carneiro, sou apaixonado por desenvolvimento de softwares e fã de Linux, Java, PHP e Python de carterinha! Estudo e trabalho com ambos a bastante tempo e ainda estou estudando e desenvolvendo minhas habilidades sempre que possível!
 
+- 🌟 Antes de tudo, quero registrar meus agradecimentos e admiração por uma pessoa que sempre se dispôe a me ajuda, ensinar, corrigir minhas falhas e corroborar para que eu me torne não apenas desenvolvedor melhor, mas também uma pessoa melhor, de coração meus sinceros e eternos agradecimentos ao [Douglas Massolari](https://github.com/Massolari).
+
 - 🐧 Meu primeiro contato com Linux foi em um curso fornecido pela prefeitura da minha cidade quando *eu tinha 14 anos (2004)*, foram longos 15 anos ou mais de uso diário de distribuíções de kernel linux, e o que mais me acompanhou foi o [Slackware Linux](http://www.slackware.com/).
 
 - 🎓 Atualmente acadêmico do curso superior Barachelado em Engenharia de Software pela Universidade Anhanguera de Campinas, em breve Engenherio de Software por formação.
@@ -10,6 +12,8 @@
 - 🌱 Estudando Desenvolvimento Fullstack com PHP, Laravel, PostgresSQL, Bootstrap, CSS e Javascript.
   
 <!-- - 🌟 Mas sempre estou usando e me aprimorando em Java, principalmente com o framework Springboot, atualmente estou fazendo um Bootcamp da DIO para aumentar meu conhecimento como desenvolvedor fullstack e backend com Java que também auxilia e agrega conteúdo aos meus estudos de Java com as matérias da faculdade de Engenharia de Software que se baseiam nesta linguam incrível.
+
+
 -->
 
 
