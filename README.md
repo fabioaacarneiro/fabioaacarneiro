@@ -30,7 +30,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat-square&labelColor=%230A66C2&logo=linkedin&logoColor=black&link=https://www.linkedin.com/in/fabio-carneiro-coder/)](https://www.linkedin.com/in/fabio-carneiro-coder/)
 
-
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=black&link=https://www.youtube.com/@FabioCarneiro)](https://www.youtube.com/@FabioCarneiro)</div>
 
 *Tecnologias e ferramentas do meu arcabouço de conhecimento:*
