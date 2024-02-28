@@ -21,7 +21,7 @@
 </a>
 
 ---
-- Dicas para deicar seus commits melhores [aqui](https://gist.github.com/fabioaacarneiro/eddc5b16997c41263cf3011474588c90).
+- Dicas para deixar seus commits melhores [aqui](https://gist.github.com/fabioaacarneiro/eddc5b16997c41263cf3011474588c90).
 ---
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/fabioaacarneiro)
