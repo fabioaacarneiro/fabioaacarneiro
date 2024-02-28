@@ -11,7 +11,7 @@
   
 - 🌱 Estudando Desenvolvimento Fullstack com PHP, Laravel, PostgresSQL, Bootstrap, CSS e Javascript.
   
-- ☕️ Atualemente também estou desenvolvendo minhas habilidade como desenvolvedor Java, principalmente com o framework Springboot, e aproveitando um Bootcamp da DIO para aumentar meu conhecimento como desenvolvedor fullstack e backend com Java que também auxilia e agrega conteúdo aos meus estudos de Java com as matérias da faculdade de Engenharia de Software que se baseiam nesta linguam incrível.
+<!-- ☕️ Atualemente também estou desenvolvendo minhas habilidade como desenvolvedor Java, principalmente com o framework Springboot, e aproveitando um Bootcamp da DIO para aumentar meu conhecimento como desenvolvedor fullstack e backend com Java que também auxilia e agrega conteúdo aos meus estudos de Java com as matérias da faculdade de Engenharia de Software que se baseiam nesta linguam incrível. -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fabioaacarneiro" />
